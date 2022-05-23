@@ -5,22 +5,12 @@
 </p>
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
 
+<div align="center">
+  
   <h3 align="center">Random Quote Generator (JavaScript Project)</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -30,6 +20,10 @@
 ## About The Project
 
 In this project I learned how to make an asynchronous fetch request to a REST API inorder to get our quotes but I actually ran into the dreaded CORS error and got a lesson on how to solve that problem incase I encounter it in the future using a proxy API. Taking a look at the example project above we can see that I tried to make it as modern as possible. The first of these elements is adding a Hero Patterns vector background which has many patterns and allows you to make it unique. There is some Font Awesome icons here and am also using a custom Google Font which has many to choose from as well. Down at the bottom we have a New Quote button and you can see that we have a loader which loads in between quotes. The idea is that when this takes time to load, which it does sometimes, we want to signal to the user that something is happening between the scenes even if they cannot see it. The other button we have is a Twitter button which when you click on will open twitter in a new tab and if we are logged in it will allow us to tweet. Lastly, this project is also mobile responsive as well with a little of margin on both sides.
+
+## How It's Made:
+
+**Tech used:** HTML, CSS, JavaScript, Framework of choice
 
 
 <!-- LICENSE -->
