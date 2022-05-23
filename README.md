@@ -44,9 +44,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@AntonyE84301519](https://twitter.com/AntonyE84301519) - email@example.com
+Antony Ekirapa - [@AntonyE84301519](https://twitter.com/AntonyE84301519) - a.m.ekirapa@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [JS-Random-Quote-Generator-Project](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -65,6 +65,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
+* [#100Devs](https://leonnoel.com/100devs/)
 * [Zero To Mastery Academy](https://zerotomastery.io/about/instructor/andrei-neagoie/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
