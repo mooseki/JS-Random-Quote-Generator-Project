@@ -46,7 +46,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Antony Ekirapa - [@AntonyE84301519](https://twitter.com/AntonyE84301519) - a.m.ekirapa@gmail.com
 
-Project Link: [JS-Random-Quote-Generator-Project](https://github.com/your_username/repo_name)
+Project Link: [JS-Random-Quote-Generator-Project](https://mooseki.github.io/JS-Random-Quote-Generator-Project/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
