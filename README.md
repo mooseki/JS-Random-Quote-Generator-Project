@@ -23,7 +23,7 @@ In this project I learned how to make an asynchronous fetch request to a REST AP
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript
 
 
 <!-- LICENSE -->
